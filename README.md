@@ -3,7 +3,9 @@
 
 🇺🇸 oculta cualquier link como maskphish usando varios metodos con este programa escrito en python
 
-# How to Install and Use
+## do not use this program for malicious purpose
+
+# How to Install
 
 ## Download
 
@@ -19,4 +21,9 @@
 ### 🇺🇸 or use this command in your terminal
 ### 🇪🇸 o usa este comando en tu terminal
     pip install -r requirements.txt
-   
+
+### at this point the program is ready to run, do this to run the program
+    cd URLghost
+    python3 URLghost.py
+
+# How to use
