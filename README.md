@@ -40,3 +40,9 @@
 
 ![image](https://github.com/user-attachments/assets/4620023a-76e0-48f9-b1ac-ee76430b5174)
 
+
+# Bugs and suggestions
+🇺🇸 Use option number 12 of the script to send all your questions and suggestions through an input that will be sent to a Discord webhook
+
+🇪🇸 Utilice la opción número 12 del script para enviar todas sus preguntas y sugerencias a través de una entrada que se enviará a un webhook de Discord
+
