@@ -13,5 +13,5 @@ Hide any link like maskphish using various methods with this program written in 
 ![image](https://github.com/user-attachments/assets/bfc1916b-1f87-48cb-aa6b-720befc7301c)
 
 ### or use this command in your terminal
-                 pip install -r requirements.txt
+    pip install -r requirements.txt
    
