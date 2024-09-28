@@ -1,5 +1,7 @@
 # URLghost
-Hide any link like maskphish using various methods with this program written in Python / oculta cualquier link como maskphish usando varios metodos con este programa escrito en python
+🇪🇸 Hide any link like maskphish using various methods with this program written in Python 
+
+🇺🇸 oculta cualquier link como maskphish usando varios metodos con este programa escrito en python
 
 # How to Install and Use
 
@@ -12,6 +14,7 @@ Hide any link like maskphish using various methods with this program written in 
 
 ![image](https://github.com/user-attachments/assets/bfc1916b-1f87-48cb-aa6b-720befc7301c)
 
-### or use this command in your terminal
+### 🇺🇸 or use this command in your terminal
+### 🇪🇸 o usa este comando en tu terminal
     pip install -r requirements.txt
    
