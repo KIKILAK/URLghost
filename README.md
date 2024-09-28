@@ -32,10 +32,11 @@
 
 ## 🇺🇸 To use this program you need 2 domains, the domain where you want the person to be redirected when entering and the fake domain that the person will think they are going to enter
 
-## 🇪🇸 el dominio al que quieres que la persona sea redirigida al entrar y el dominio falso al que la persona pensará que va a entrar
+## 🇪🇸 para usar este programa necesitas 2 dominios, el dominio al que quieres que la persona sea redirigida al entrar y el dominio falso al que la persona pensará que va a entrar
 
 ## 🇺🇸 example: https://google.com, malicious.com, now select any of the obfuscation method and the script will teach you how to make the fake link, I recommend using the examples option to see how the URLs can look, here is a photo
 
 ## 🇪🇸 ejemplo: https://google.com, malicious.com, ahora selecciona cualquiera de los métodos de ofuscación y el script te enseñará cómo hacer el enlace falso, recomiendo usar la opción de ejemplos para ver cómo se pueden ver las URL, aquí hay una foto
 
-![image](https://github.com/user-attachments/assets/c72e993c-1315-42ae-a6b5-a6c56945c14e)
+![image](https://github.com/user-attachments/assets/4620023a-76e0-48f9-b1ac-ee76430b5174)
+
