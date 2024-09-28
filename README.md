@@ -46,3 +46,4 @@
 
 🇪🇸 Utilice la opción número 12 del script para enviar todas sus preguntas y sugerencias a través de una entrada que se enviará a un webhook de Discord
 
+![image](https://github.com/user-attachments/assets/d195d2b0-8377-4aaf-bc22-22f805a5b4bd)
