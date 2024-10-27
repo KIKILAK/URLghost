@@ -5,7 +5,7 @@
 
 ## do not use this program for malicious purpose
 
-# How to Install
+# How to Install (Linux/Termux/Windows)
 
 ## Download
 
