@@ -9,8 +9,8 @@
 
 ## Linux/Termux Download
 
-### 🇺🇸 Install python, you can do it here: *python.org/downloads/* 
-### 🇪🇸 descarga python, puedes hacerlo aqui: *python.org/downloads/*
+### 🇺🇸 Install python, you can do it here: *python.org/downloads/* (note: python must be installed already on linux or termux, on another case use this command: sudo apt-get install python3.8)
+### 🇪🇸 descarga python, puedes hacerlo aqui: *python.org/downloads/* (nota: python deberia ya estar instalado en linux o termux, en caso que no ejecuta este comando: sudo apt-get install python3.8)
   ![image](https://github.com/user-attachments/assets/ef37bcb7-a164-4aa2-80df-f2dd56287018)
 
 ### 🇺🇸 open *setup.py* script and select your OS to install needed requirements 
@@ -27,6 +27,13 @@
     cd URLghost
     python3 URLghost.py
 
+## Windows Download
+
+🇪🇸 Primero descarga python desde la web y haz el setup, ve al boton verde de arriba a la derecha el cual dice "code" dale click y luego a "download ZIP", ve al explorador de archivos y descomprimelo, ahora abre el archivo de setup.py y dejalo ejecutandose hasta que el cmd se cierre o pare de ejecutar el script, ahora abre el visual studio code https://code.visualstudio.com/ (instala primero) y mueve la carpeta de URLghost adentro, ahora instala la extension de python en visual studio code, luego selecciona el archivo de URLghost y presiona el boton de play arriba a la derecha, deberia correrse el programa correctamente en una terminal que puedes redimencionar, debes usar el script en esta terminal en vez del cmd normal para evitar problemas.
+
+🇺🇸 First download python from the web and do the setup, go to the green button at the top right which says "code" click on it and then "download ZIP", go to the file explorer and unzip it, now open the setup file .py and leave it running until the cmd closes or stops executing the script, now open the visual studio code https://code.visualstudio.com/ (install first) and move the URLghost folder inside, now install the extension of python in visual studio code, then select the URLghost file and press the play button at the top right, the program should run correctly in a terminal that you can resize, you must use the script in this terminal instead of the normal cmd to avoid issues.
+
+
 # How to use
 ![image](https://github.com/user-attachments/assets/73ffb5b2-e3ba-4529-8b99-49eb69869511)
 
@@ -34,11 +41,6 @@
 
 ## 🇪🇸 para usar este programa necesitas 2 dominios, el dominio al que quieres que la persona sea redirigida al entrar y el dominio falso al que la persona pensará que va a entrar
 
-## Windows Download
-
-🇪🇸 Primero descarga python desde la web y haz el setup, ve al boton verde de arriba a la derecha el cual dice "code" dale click y luego a "download ZIP", ve al explorador de archivos y descomprimelo, ahora abre el archivo de setup.py y dejalo ejecutandose hasta que el cmd se cierre o pare de ejecutar el script, ahora abre el visual studio code https://code.visualstudio.com/ (instala primero) y mueve la carpeta de URLghost adentro, ahora instala la extension de python en visual studio code, luego selecciona el archivo de URLghost y presiona el boton de play arriba a la derecha, deberia correrse el programa correctamente en una terminal que puedes redimencionar, debes usar el script en esta terminal en vez del cmd normal para evitar problemas.
-
-🇺🇸 First download python from the web and do the setup, go to the green button at the top right which says "code" click on it and then "download ZIP", go to the file explorer and unzip it, now open the setup file .py and leave it running until the cmd closes or stops executing the script, now open the visual studio code https://code.visualstudio.com/ (install first) and move the URLghost folder inside, now install the extension of python in visual studio code, then select the URLghost file and press the play button at the top right, the program should run correctly in a terminal that you can resize, you must use the script in this terminal instead of the normal cmd to avoid issues.
 
 
 
