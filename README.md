@@ -34,6 +34,14 @@
 
 ## 🇪🇸 para usar este programa necesitas 2 dominios, el dominio al que quieres que la persona sea redirigida al entrar y el dominio falso al que la persona pensará que va a entrar
 
+## Windows Download
+
+🇪🇸 Primero descarga python desde la web y haz el setup, ve al boton verde de arriba a la derecha el cual dice "code" dale click y luego a "download ZIP", ve al explorador de archivos y descomprimelo, ahora abre el archivo de setup.py y dejalo ejecutandose hasta que el cmd se cierre o pare de ejecutar el script, ahora abre el visual studio code https://code.visualstudio.com/ (instala primero) y mueve la carpeta de URLghost adentro, ahora instala la extension de python en visual studio code, luego selecciona el archivo de URLghost y presiona el boton de play arriba a la derecha, deberia correrse el programa correctamente en una terminal que puedes redimencionar, debes usar el script en esta terminal en vez del cmd normal para evitar problemas.
+
+🇺🇸 First download python from the web and do the setup, go to the green button at the top right which says "code" click on it and then "download ZIP", go to the file explorer and unzip it, now open the setup file .py and leave it running until the cmd closes or stops executing the script, now open the visual studio code https://code.visualstudio.com/ (install first) and move the URLghost folder inside, now install the extension of python in visual studio code, then select the URLghost file and press the play button at the top right, the program should run correctly in a terminal that you can resize, you must use the script in this terminal instead of the normal cmd to avoid issues.
+
+
+
 ## 🇺🇸 example: https://google.com, malicious.com, now select any of the obfuscation method and the script will teach you how to make the fake link, I recommend using the examples option to see how the URLs can look, here is a photo
 
 ## 🇪🇸 ejemplo: https://google.com, malicious.com, ahora selecciona cualquiera de los métodos de ofuscación y el script te enseñará cómo hacer el enlace falso, recomiendo usar la opción de ejemplos para ver cómo se pueden ver las URL, aquí hay una foto
