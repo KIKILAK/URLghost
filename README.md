@@ -7,7 +7,7 @@
 
 # How to Install (Linux/Termux/Windows)
 
-## Download
+## Linux/Termux Download
 
 ### 🇺🇸 Install python, you can do it here: *python.org/downloads/* 
 ### 🇪🇸 descarga python, puedes hacerlo aqui: *python.org/downloads/*
