@@ -134,7 +134,7 @@ elif selection == '00':
 elif selection == '11':
     print("1.0.0")
 elif selection == '12':
-    url_webhook = Discord(url="https://discord.com/api/webhooks/1289369002422042655/lxoIZTcXDsUZfRFpEVYMc9_xcrYEy8nM8aln18d-GdUcKRJPZBzAf6Vag2r5NPnViouc")
+    url_webhook = Discord(url="removed_temporally")
     print("\n")
     suggest = input("--------(-🌐-)[Enter your suggestion (bugs, obfuscation methods, suggestions, etc) :) ] : ")
     url_webhook.post(content=suggest)
