@@ -1,2 +1,4 @@
+kcolors
+requests
 gdshortener
-discordwebhook
+pyperclip
