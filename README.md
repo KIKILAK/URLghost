@@ -16,3 +16,9 @@ GhostURL es una herramienta que permite ofuscar y ocultar URLs de forma simple y
 - y luego deberia abrirse el programa de GhostURL correctamente
 
 > despues de esto podras usar el script correctamente
+
+---
+### Linux :
+
+- ejecuta este comando :
+    ``` git clone https://github.com/KIKILAK/URLghost ```
