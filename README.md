@@ -28,3 +28,10 @@ GhostURL es una herramienta que permite ofuscar y ocultar URLs de forma simple y
   
 ### Termux : puedes hacer el mismo proceso que en Linux
 ---
+## Uso
+
+> debes seleccionar el número de la opcion que quieras utilizar, si no sabes como funciona ninguna selecciona la opcion 10, que te dara un ejemplo de cada una, la opcion 5 es la más recomendada
+
+![image](https://github.com/user-attachments/assets/30d4958d-8827-4548-b704-0088356603e0)
+
+- el titulo cambiara de estilo y color cada vez que se actualice el menú 
