@@ -22,3 +22,7 @@ GhostURL es una herramienta que permite ofuscar y ocultar URLs de forma simple y
 
 - ejecuta este comando :
     ``` git clone https://github.com/KIKILAK/URLghost ```
+-  ejecuta este otro comando :
+      ``` chmod +x install.sh && ./install.sh```
+- ahora espere a que el script "install.sh" descargue todo e inicie correctamente GhostURL
+---
