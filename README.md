@@ -40,3 +40,4 @@ GhostURL es una herramienta que permite ofuscar y ocultar URLs de forma simple y
 - proximamente mas tecnicas de ofuscacion
 ---
 ## Disfruten Ofuscando URLs y haciendo pruebas
+### Unete y aprende Hacking/Ciberseguridad : discord.gg/z4UwuJ2u
